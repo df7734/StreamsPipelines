@@ -263,7 +263,6 @@ public class CollectingTest {
                         .collect(new Collecting().printableStringCollector()));
     }
 
-
     private final String[] names = {"Johnny", "Betty", "Ragnar", "Umberto"};
     private final String[] lastNames = {"Silverhand", "Paige", "Lodbrok", "Eco"};
     private final String[] programTasks = {"Lab 1. Figures", "Lab 2. War and Peace", "Lab 3. File Tree"};
